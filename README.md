@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ulugbek</h1>
+<h1 align="center">Hi 👋, I'm Tidalu</h1>
 <h3 align="center"><currently><learning<html><css><js></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tidal&label=Profile%20views&color=0e75b6&style=flat" alt="tidal" /> </p>
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [later](later)
 
-- 💬 Ask me about **<i will try>**
+- 💬 Ask me about <i will try>
 
 - 📫 How to reach me **ulugio23@gmail.com**
 
