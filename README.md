@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [later](later)
 
-- 💬 Ask me about <i will try>
+- 💬 Ask me about - i will try
 
 - 📫 How to reach me **ulugio23@gmail.com**
 
