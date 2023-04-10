@@ -2,7 +2,7 @@
 <div id="header" align="center" background-image="url('t.png')">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-tag. Make sure to change the href attribute to point to your social profiles:
+
 
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
