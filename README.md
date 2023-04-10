@@ -18,7 +18,7 @@
   
 </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=tidalu&style=flat-square&color=blue" alt=""/>
+<img src="https://visitcount.itsvg.in/api?id=tidalu&icon=0&color=0" alt=""/>
  </div>
  
  <h1 align="center" font-family="cursive">
@@ -26,7 +26,17 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<!-- 
+<div align="center">
+ <h2  font-family="cursive">
+  If u wanna buy me a coffee
+  </h2>
+  <a align="center" href="https://buymeacoffee.com/tidal">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Youtube Badge"/>
+  </a>
+</div>
 
+ -->
 # 💫 About Me:
 🌱 I’m currently learning Web development, Data structures, Linux<br><br>👨‍💻 All of my projects are available on my repos<br><br>💬 Ask me about - Frontend <br><br>📫 How to reach me ulugio23@gmail.com<br>
 
@@ -39,20 +49,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tidalu&theme=solarized-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tidalu&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=ulug_io)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tidalu&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=tidalu&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
+ -->
+<!-- 
+## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tidal) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+   -->
