@@ -1,7 +1,10 @@
-
+  <head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
 <div id="header" align="center" background-image="url('t.png')">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 
 
 <div id="badges" align="center" display="block">
@@ -17,7 +20,7 @@
   
 </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=tidalu&style=flat-square&color=blue" alt=""/>
  </div>
  
  <h1 align="center" font-family="cursive">
