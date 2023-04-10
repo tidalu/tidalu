@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
 # 💫 About Me:
 🌱 I’m currently learning Web development, Data structures, Linux<br><br>👨‍💻 All of my projects are available on my repos<br><br>💬 Ask me about - Frontend <br><br>📫 How to reach me ulugio23@gmail.com<br>
 
