@@ -1,0 +1,13 @@
+#header {
+  background-image: url('t.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+/* Center the contents of the header */
+#header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
