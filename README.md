@@ -1,6 +1,6 @@
 | Tidalu is| coding |
 | - | - |
-| ![Header Image](./t.png) | <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" align="right"> |
+| ![Header Image](./curr.png) | <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" align="right"> |
 
 
 
