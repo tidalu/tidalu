@@ -11,9 +11,9 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: tidalu/waka-readme@master
+      - uses: tidalu/waka-readme@main
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # meta
           API_BASE_URL: https://wakatime.com/api
@@ -31,7 +31,7 @@ jobs:
           STOP_AT_OTHER: true
           # commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
-          TARGET_BRANCH: master
+          TARGET_BRANCH: main
           TARGET_PATH: README.md
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.org
