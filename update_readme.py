@@ -1,7 +1,7 @@
 import requests
 
 WAKATIME_API_ENDPOINT = "https://api.wakatime.com//api/v1/users/current/all_time_since_today"
-WAKATIME_API_KEY = "waka_01a1463a-d5f3-4298-a0cb-67d7edc86696"
+WAKATIME_API_KEY = "waka_e3dec692-24d8-4624-a61f-5e283d172ebd"
 
 def get_wakatime_metrics():
     headers = {"Authorization": f"Bearer {WAKATIME_API_KEY}"}
