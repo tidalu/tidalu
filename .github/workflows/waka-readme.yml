@@ -2,7 +2,7 @@ name: Update Readme with WakaTime Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "34 2 * * *"
 
 jobs:
   update-readme:
