@@ -1,10 +1,8 @@
 import requests
 
-# Replace these placeholders with your WakaTime API details
 WAKATIME_API_ENDPOINT = "https://api.wakatime.com//api/v1/users/current/all_time_since_today"
-WAKATIME_API_KEY = "waka_bbc93713-bf4b-4b73-b59c-18dd00494464"
+WAKATIME_API_KEY = "waka_01a1463a-d5f3-4298-a0cb-67d7edc86696"
 
-# Function to fetch WakaTime metrics from the API
 def get_wakatime_metrics():
     headers = {"Authorization": f"Bearer {WAKATIME_API_KEY}"}
     response = requests.get(WAKATIME_API_ENDPOINT, headers=headers)
@@ -15,27 +13,35 @@ def get_wakatime_metrics():
         print(f"Failed to fetch WakaTime metrics. Status code: {response.status_code}")
         return None
 
-# Function to update the README.md file with the fetched metrics
 def update_readme_with_metrics(metrics):
     with open("README.md", "r") as f:
         readme_content = f.read()
 
-    # Parse the fetched metrics and update the corresponding sections in README.md
-    # Modify this part according to your desired format and content
-    # For example, update a section with total coding time:
-    total_coding_time = metrics["data"][0]["grand_total"]["digital"]
-    new_readme_content = readme_content.replace("<!--TOTAL_CODING_TIME-->", f"Total Coding Time: {total_coding_time}")
+    if "<!--START_SECTION:waka-->" in readme_content and "<!--END_SECTION:waka-->" in readme_content:
+        start_marker = "<!--START_SECTION:waka-->"
+        end_marker = "<!--END_SECTION:waka-->"
 
-    with open("README.md", "w") as f:
-        f.write(new_readme_content)
+        metrics_data = f"Total Coding Time: {metrics['total_coding_time']} hours\n"  # Replace this with the actual metrics format
+
+        new_readme_content = (
+            readme_content.split(start_marker)[0]
+            + start_marker
+            + "\n"
+            + metrics_data
+            + "\n"
+            + end_marker
+            + readme_content.split(end_marker)[1]
+        )
+
+        with open("README.md", "w") as f:
+            f.write(new_readme_content)
 
 def main():
-    # Fetch the WakaTime metrics from the API
     metrics = get_wakatime_metrics()
 
     if metrics:
-        # Update the README.md with the fetched metrics
         update_readme_with_metrics(metrics)
 
 if __name__ == "__main__":
     main()
+
