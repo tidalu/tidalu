@@ -40,14 +40,7 @@
 🌱 I’m currently learning Web development, Data structures, Linux<br><br>👨‍💻 All of my projects are available on my repos<br><br>💬 Ask me about - Frontend <br><br>📫 How to reach me ulugio23@gmail.com<br>
 
 # 📊 My Waka Stats
-$.ajax({
-  type: 'GET',
-  url: 'https://wakatime.com/share/@f6adf35b-bdf3-4107-b9be-57d982524ed4/9cf257aa-edd3-420d-944b-129bdfed4dd9.json',
-  dataType: 'jsonp',
-  success: function(response) {
-    console.log(response.data);
-  },
-});
+<figure><embed src="https://wakatime.com/share/@f6adf35b-bdf3-4107-b9be-57d982524ed4/81a6e220-1a8e-4270-ab3f-6767baa2d28d.svg"></embed></figure>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
