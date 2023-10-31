@@ -38,9 +38,9 @@
  -->
 # 💫 About Me:
 🌱 I’m currently learning Web development, Data structures, Linux<br><br>👨‍💻 All of my projects are available on my repos<br><br>💬 Ask me about - Frontend <br><br>📫 How to reach me ulugio23@gmail.com<br>
-
+<!--
 # 📊 My Waka Stats
-![Tidalu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tidalu)
+![Tidalu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tidalu) -->
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
