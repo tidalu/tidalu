@@ -48,7 +48,11 @@
 # 📊 GitHub Stats:
 <img src="https://leetcode.card.workers.dev/tidalu_?theme=dark&font=baloo&extension=null" alt="Tidalu's LeetCode Stats" width="100%" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tidalu&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tidalu&theme=solarized-dark&hide_border=false)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=tidalu&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tidalu&theme=solarized-dark&hide_border=false" alt="GitHub Streak">
+</div>
+
 
 <div style="display: flex;">
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=tidalu_&theme=github-dark" alt="Annual Badges" height="200px" style="flex: 1; object-fit: cover;" />
