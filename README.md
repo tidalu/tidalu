@@ -1,4 +1,4 @@
-| Tidalu is| coding |
+| Tidalu is | coding |
 | - | - |
 | ![Header Image](./curr.png) | <a href="https://app.daily.dev/tidalu"><img src="https://api.daily.dev/devcards/f86c061a68344649bbf6f3da25cfb6ab.png?r=dwx" width="400" alt="Ulugbek Norbutaev's Dev Card"/></a> |
 
