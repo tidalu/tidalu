@@ -1,6 +1,6 @@
-| Tidalu is | coding |
-| - | - |
-| ![Header Image](./curr.png) | <a href="https://app.daily.dev/tidalu"><img src="https://api.daily.dev/devcards/f86c061a68344649bbf6f3da25cfb6ab.png?r=dwx" width="400" alt="Ulugbek Norbutaev's Dev Card"/></a> |
+| Ulugbek Norbutaev |
+| - |
+| ![Header Image](./curr.png)  |
 
 
 
@@ -37,7 +37,7 @@
 
  -->
 # 💫 About Me:
-🌱 I’m currently learning Web development, Data structures, Linux<br><br>👨‍💻 All of my projects are available on my repos<br><br>💬 Ask me about - Frontend <br><br>📫 How to reach me ulugbekswe@gmail.com || [Telegram](https://t.me/tidalu)<br>
+🌱 I’m currently learning Web development, Data structures, Linux<br><br>👨‍💻 All of my projects are available on my repos<br><br>💬 Ask me about - Frontend <br><br>📫 How to reach me mail@ulugbekswe.com || [Telegram](https://t.me/tidalu)<br>
 <!--
 # 📊 My Waka Stats
 ![Tidalu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tidalu) -->
