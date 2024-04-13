@@ -37,7 +37,7 @@
 
  -->
 # 💫 About Me:
-🌱 I’m currently learning Web development, Data structures, Linux<br><br>👨‍💻 All of my projects are available on my repos<br><br>💬 Ask me about - Frontend <br><br>📫 How to reach me mail@ulugbekswe.com || [Telegram](https://t.me/tidalu)<br>
+🌱 I’m currently learning Web development, Data structures, Linux<br><br>👨‍💻 All of my projects are available on my repos<br><br>💬 Ask me about - Frontend <br><br>📫 How to reach me sweulugbek@gmail.com || [Telegram](https://t.me/tidalu)<br>
 <!--
 # 📊 My Waka Stats
 ![Tidalu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tidalu) -->
