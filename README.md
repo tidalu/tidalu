@@ -21,6 +21,7 @@ Fullstack JavaScript / TypeScript engineer building systems, tools, and product-
 ## Featured Projects
 
 - **Accountability Duo** — Telegram Mini App for accountability partners and goal tracking.
+- **HabitFlow** - Personal Habit Tracker API
 - **Shoelab** — OOP-based system exploring structured product behavior and recommendation logic.
 - **Level-U** — A modern, fast e-learning platform built with Next.js and TypeScript.
 - **Summarizer** — Utility for transforming raw text into concise summaries.
