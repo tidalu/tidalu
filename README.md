@@ -1,12 +1,10 @@
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
-
-
 <div align="center">
 
 # Ulugbek Norbutaev
 
-
-Fullstack JavaScript / TypeScript engineer building systems, tools, and product-driven applications.
+Backend engineering focused on Node.js, TypeScript, and PostgreSQL.  
+Building production-minded APIs and systems from scratch.  
+CS @ University of Łódź.
 
 <p>
   <a href="https://github.com/tidalu">GitHub</a> •
@@ -20,10 +18,9 @@ Fullstack JavaScript / TypeScript engineer building systems, tools, and product-
 
 ## Featured Projects
 
+- **HabitFlow** — Habit Tracker REST API. Node.js, TypeScript, PostgreSQL, Prisma, JWT, k6, GitHub Actions.
+- **Level-U** — E-learning platform built with Next.js and TypeScript.
 - **Accountability Duo** — Telegram Mini App for accountability partners and goal tracking.
-- **HabitFlow** - Personal Habit Tracker API
-- **Shoelab** — OOP-based system exploring structured product behavior and recommendation logic.
-- **Level-U** — A modern, fast e-learning platform built with Next.js and TypeScript.
 - **Summarizer** — Utility for transforming raw text into concise summaries.
 
 ---
@@ -31,4 +28,5 @@ Fullstack JavaScript / TypeScript engineer building systems, tools, and product-
 ## Stack
 
 ```txt
-JavaScript • TypeScript • Node.js • Express • React • Next.js • PostgreSQL
+Node.js • TypeScript • Express • PostgreSQL • Prisma • React • Next.js
+```
