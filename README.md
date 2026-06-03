@@ -22,7 +22,7 @@
 
 **[HabitFlow](https://github.com/tidalu/habitflow)** — Habit tracker REST API. JWT auth, PostgreSQL + Prisma, full test suite (Vitest + Supertest), load tested with k6, hardened with OWASP mitigations. CI/CD via GitHub Actions.
 
-**[Level-U](https://github.com/tidalu/level-u)** — E-learning platform. Next.js, TypeScript, accessibility-first, SEO optimised.
+**[Level-U](https://github.com/tidalu/level-u)** — Website of Level-edu. Next.js, TypeScript, accessibility-first, SEO optimised.
 
 **[Accountability Duo](https://github.com/tidalu/accountability-duo)** — Telegram Mini App for accountability partners and goal tracking.
 
