@@ -14,7 +14,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
 
-> 🟢 Building **HabitFlow** — habit tracker API &nbsp;·&nbsp; open to backend roles Sept 2026
+> 🟢 Building **HabitFlow** — habit tracker API &nbsp;·&nbsp; open to backend roles 
 
 ---
 
