@@ -28,7 +28,7 @@
 
 ---
 
-CS @ University of Łódź &nbsp;·&nbsp;
+CS @ University of Łódź 
 ```
 
-Update the repo links once they're public. Want me to adjust anything — order, stats, wording?
+
