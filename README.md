@@ -28,7 +28,7 @@
 
 ---
 
-CS @ University of Łódź &nbsp;·&nbsp; GPA 4.1
+CS @ University of Łódź &nbsp;·&nbsp;
 ```
 
 Update the repo links once they're public. Want me to adjust anything — order, stats, wording?
