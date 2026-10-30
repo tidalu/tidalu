@@ -4,7 +4,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-tidalu-black?style=flat-square&logo=github)](https://github.com/tidalu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tidalu-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/tidalu)
-[![Email](https://img.shields.io/badge/Email-ulugbek@tidalu.space-black?style=flat-square&logo=gmail)](mailto:ulugbek@tidalu.space)
+[![Email](https://img.shields.io/badge/Email-ulugbek@tidalu.space-black?style=flat-square&logo=gmail)](mailto:sweulugbek@gmail.com)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
